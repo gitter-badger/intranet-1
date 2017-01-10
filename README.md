@@ -1,7 +1,8 @@
-## Developement Settings
-### Composer
-
+# Ridibooks Intranet
 [![Join the chat at https://gitter.im/ridibooks/intranet](https://badges.gitter.im/ridibooks/intranet.svg)](https://gitter.im/ridibooks/intranet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+## Development Settings
+### Composer
 Run command below in root directory.
 ```
 composer install
